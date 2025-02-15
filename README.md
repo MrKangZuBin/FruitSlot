@@ -29,14 +29,5 @@
 
 ## 环境配置
 https://github.com/hiwoshixiaoyu/FruitSlot/wiki/%E7%8E%AF%E5%A2%83%E5%92%8C%E5%90%90%E6%A7%BD
-## 支持作者，让作者吃泡面 加根香肠和卤蛋
- ![Alt text](https://github.com/hiwoshixiaoyu/FruitSlot/blob/master/readme/money.jpg)
-
-##免责声明：
---
- 源码仅供技术交流，请勿用于商业及非法用途，如产生法律纠纷与本人无关。
-##欢迎大家merge代码
- QQ/wechat:1078696762（有偿架设）
-	 
 
 
